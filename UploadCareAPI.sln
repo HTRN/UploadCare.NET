@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UploadCareAPI", "UploadCareAPI.csproj", "{7C14C09C-897F-42D1-8BC6-A050669EF856}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UploadCareAPI", "UploadCareAPI\UploadCareAPI.csproj", "{7C14C09C-897F-42D1-8BC6-A050669EF856}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UploadCareAPI.Tests", "..\UploadCareAPI.Tests\UploadCareAPI.Tests.csproj", "{19EE2401-6912-483A-AB6A-2E33B5DA20D9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UploadCareAPI.Tests", "UploadCareAPI.Tests\UploadCareAPI.Tests.csproj", "{19EE2401-6912-483A-AB6A-2E33B5DA20D9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
